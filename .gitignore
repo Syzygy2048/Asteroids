@@ -1,0 +1,28 @@
+
+# Visual Studio C++
+debug/
+release/
+*.opensdf
+*.sdf
+*.suo
+*.sln
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Unreal Engine 4
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
